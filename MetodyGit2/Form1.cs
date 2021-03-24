@@ -49,6 +49,7 @@ namespace MetodyGit2
             vysledny_fakt = Metoda2_faktorial(n);
             MessageBox.Show("Faktorial je " + vysledny_fakt);
 
+            //Vše funguje - Prášek
         }
     }
 }
