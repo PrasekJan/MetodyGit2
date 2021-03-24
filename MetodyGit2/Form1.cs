@@ -43,7 +43,7 @@ namespace MetodyGit2
             MessageBox.Show("Dnes je: " + dnes.ToString());
             MessageBox.Show("Datum za 100 dni: " + stodni);
             ///////////////////////////////////////////////
-            ///
+            ////
             int n = int.Parse(textBox1.Text);
             int vysledny_fakt;
             vysledny_fakt = Metoda2_faktorial(n);
